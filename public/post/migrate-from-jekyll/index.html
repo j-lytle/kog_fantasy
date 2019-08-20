@@ -12,9 +12,9 @@
 ▾ &lt;root&gt;/ ▾ images/ logo.png  should become
 ▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/post/migrate-from-jekyll/" />
-<meta property="article:published_time" content="2014-03-10T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2014-03-10T00:00:00&#43;00:00"/>
+<meta property="og:url" content="https://www.kog-fantasy.com/post/migrate-from-jekyll/" />
+<meta property="article:published_time" content="2014-03-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-03-10T00:00:00+00:00" />
 
 	
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -271,18 +271,18 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
 		</label>
 		<input class="widget-search__submit" type="submit" value="Search">
-		<input type="hidden" name="sitesearch" value="/" />
+		<input type="hidden" name="sitesearch" value="https://www.kog-fantasy.com/" />
 	</form>
 </div>
 <div class="widget-recent widget">
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/sample-post/">Sample Post</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/basic-elements/">Basic HTML Elements</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2015-07-23-r-rmarkdown/">Hello R Markdown</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/creating-a-new-theme/">Creating a New Theme</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/goisforlovers/">(Hu)go Template Primer</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/hugoisforlovers/">Getting Started with Hugo</a></li>
 		</ul>
 	</div>
 </div>
@@ -292,6 +292,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 		<ul class="widget__list">
 			<li class="widget__item"><a class="widget__link" href="/categories/development">Development</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/golang">Golang</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/got">Got</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/r">R</a></li>
 		</ul>
 	</div>
