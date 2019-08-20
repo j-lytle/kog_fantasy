@@ -1,13 +1,12 @@
 ---
-title: Sample Post
+title: Coming Soon!
 author: Jordan
-date: '2019-08-18'
+date: '2019-08-19'
 slug: sample-post
-categories:
-  - GOT
 tags:
-  - R Markdown
-  - plot
+  - Announcement
 description: ''
 thumbnail: ''
 ---
+
+2019 content coming soon - just getting started!

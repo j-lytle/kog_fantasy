@@ -12,8 +12,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "KOG since '03" # Subtitle of your site
-  description = "KOG fantasy football since '03" # Description of your site
+  subtitle = "KOG since '03 (not really, but sounds good)" # Subtitle of your site
+  description = "KOG fantasy football since '03 (not really, but sounds good)" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true

@@ -1,32 +1,42 @@
 ---
 authorbox: false
-date: "2014-04-09"
+date: "2019-08-19"
 menu: main
 sidebar: false
-title: About Hugo
+title: The League
 ---
 
-Hugo is a static site engine written in Go.
+## '19 Season Preview
 
+**Draft Location:** Convoy, OH
 
-It makes use of a variety of open source projects including:
+Notable Rule Changes: *Half-PPR*
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## '18 Season Recap
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+2018 Season Champion DeClayOfGame (Trav) had a decision to make heading into Week 10, sitting one game under 500 at 4-5, Trav saw an opportunity to buy and added extreme depth to his roster by trading for Joe Mixon and Michael Thomas - it cost him 2019 3rd and 4th round picks in the upcoming season.  It was the boost he needed though, finishing the regular season 3-1 while averaging 128.5 points per game.  Trav did not face any challenges in the playoffs, his closest margin of victory was 20 points in the Semifinal.  Briggs had an impressive 8 game winning streak to make it into the playoffs, only to fall to Trav 135 - 102 in the Championship game.
 
-## Setup
+Jordan and Dan faced off in the unspectacular Sack-O.  This was Jordan's second trip in as many years.  He must've used that experience to his advantage, squeaking out a 7 point victory.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+2018 also marked the end of an era.  After 7 seasons as commissioner, Kris handed the reigns to Levi as acting commissioner for the 2019 season.  Thank you Kris for your leadership in getting the league up and running.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+**Draft Location:** Columbus, OH
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Notable Rule Changes: *Future draft picks tradable*
 
-Thanks for reading!
+## League History
+
+The League has been in its current form since the 2012 season. For the purposes of continuity, all stats and related information include 2012 and thereafter. The 2019 season marks the *8th* consecutive season we've had together.
+
+Owners
+
+* Briggs O.
+* Brett H.
+* Dan W. **'15**
+* Jordan L.
+* Josh P.
+* Kris L.  **'16, '17**
+* Levi O. **'12, '14**
+* Pete M. **'13**
+* Scott D.
+* Trav P. **'18**

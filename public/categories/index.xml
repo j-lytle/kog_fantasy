@@ -2,50 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Knights of Gridiron</title>
-    <link>https://www.kog-fantasy.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Knights of Gridiron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kog-fantasy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>GOT</title>
-      <link>https://www.kog-fantasy.com/categories/got/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kog-fantasy.com/categories/got/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://www.kog-fantasy.com/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kog-fantasy.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.kog-fantasy.com/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.kog-fantasy.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://www.kog-fantasy.com/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kog-fantasy.com/categories/golang/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

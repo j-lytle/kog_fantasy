@@ -3,143 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kog-fantasy.com/categories/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/tags/announcement/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/categories/got/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/post/sample-post/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/tags/plot/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/post/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/tags/r-markdown/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/post/sample-post/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/categories/development/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
