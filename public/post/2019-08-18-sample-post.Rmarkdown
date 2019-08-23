@@ -12,5 +12,4 @@ thumbnail: ''
 2019 content coming soon - just getting started!
 
 
-
-<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/views/draft_board/Draft?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link"/>
+<center><iframe src="hhttps://public.tableau.com/views/draft_board/Draft?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link"width="800" height="627" frameborder="0"></iframe></center>
