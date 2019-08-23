@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knights of Gridiron</title>
-    <link>/</link>
+    <link>https://www.kog-fantasy.com/</link>
     <description>Recent content on Knights of Gridiron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kog-fantasy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coming Soon!</title>
-      <link>/post/sample-post/</link>
+      <link>https://www.kog-fantasy.com/post/sample-post/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/sample-post/</guid>
+      <guid>https://www.kog-fantasy.com/post/sample-post/</guid>
       <description>2019 content coming soon - just getting started!</description>
     </item>
     
     <item>
       <title>The League</title>
-      <link>/about/</link>
+      <link>https://www.kog-fantasy.com/about/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.kog-fantasy.com/about/</guid>
       <description>&amp;lsquo;19 Season Preview Draft Location: Convoy, OH
 Notable Rule Changes: Half-PPR
 &amp;lsquo;18 Season Recap 2018 Season Champion DeClayOfGame (Trav) had a decision to make heading into Week 10, sitting one game under 500 at 4-5, Trav saw an opportunity to buy and added extreme depth to his roster by trading for Joe Mixon and Michael Thomas - it cost him 2019 3rd and 4th round picks in the upcoming season.</description>
