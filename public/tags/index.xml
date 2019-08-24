@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Knights of Gridiron</title>
-    <link>/tags/</link>
+    <link>https://www.kog-fantasy.com/tags/</link>
     <description>Recent content in Tags on Knights of Gridiron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kog-fantasy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Draft</title>
-      <link>/tags/draft/</link>
+      <link>https://www.kog-fantasy.com/tags/draft/</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/draft/</guid>
+      <guid>https://www.kog-fantasy.com/tags/draft/</guid>
       <description></description>
     </item>
     
