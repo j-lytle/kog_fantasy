@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kog-fantasy.com/tags/announcement/</loc>
+    <loc>/post/2019-draft/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/draft/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kog-fantasy.com/post/sample-post/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/post/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/tags/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/about/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kog-fantasy.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
